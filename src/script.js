@@ -10,10 +10,10 @@ console.log([[]] == false)	//	true
 
 //note	pri podmienkach dochádza k type coerction
 if (0) { // false
-	console.log("test")
+	console.log("test1")
 }
 
 if (1) {	//	true
-	console.log("test")
+	console.log("test2")
 }
 
